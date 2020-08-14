@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Oppaa
 - ⚡ Fun fact: No coffee please!
 
-<img src="https://github.com/reubenwedson/reubenwedson/blob/master/images/stat.svg" alt="My Time"/>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
