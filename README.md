@@ -16,4 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: No coffee please!
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
