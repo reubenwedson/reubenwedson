@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about laravel
 - 😄 Pronouns: Oppaa
 - ⚡ Fun fact: No coffee please!
+
+<img src="https://github.com/reubenwedson/reubenwedson/blob/master/images/stat.svg" alt="My Time"/>
