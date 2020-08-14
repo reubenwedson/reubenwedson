@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on start ups challenges
 - 🤔 I’m looking for help with time
 -->
-- 💬 Ask me about laravel
+- 💬 Ask me about Laravel
 - 😄 Pronouns: Oppaa
 - ⚡ Fun fact: No coffee please!
 
