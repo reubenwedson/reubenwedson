@@ -6,11 +6,11 @@
 Here are some ideas to get you started:
 
 - 📫 How to reach me: 
--->
 - 🔭 I’m currently working on awesome talent app
 - 🌱 I’m currently learning extreme Vue js technical stuffs
 - 👯 I’m looking to collaborate on start ups challenges
 - 🤔 I’m looking for help with time
+-->
 - 💬 Ask me about laravel
 - 😄 Pronouns: Oppaa
 - ⚡ Fun fact: No coffee please!
