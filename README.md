@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-PHP              13 hrs 44 mins  █████████▓░░░░░░░░░░░░░░░   39.16 % 
-Blade Template   11 hrs 28 mins  ████████▒░░░░░░░░░░░░░░░░   32.69 % 
-Vue.js           5 hrs 49 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
-JavaScript       1 hr 38 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-Other            1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+PHP              13 hrs 38 mins  █████████▒░░░░░░░░░░░░░░░   37.90 % 
+Blade Template   12 hrs 18 mins  ████████▓░░░░░░░░░░░░░░░░   34.20 % 
+Vue.js           5 hrs 49 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+Other            1 hr 34 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+JavaScript       1 hr 32 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
 ```
 <!--END_SECTION:waka-->
