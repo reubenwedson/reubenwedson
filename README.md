@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-PHP              2 hrs 43 mins   █████████████░░░░░░░░░░░░   51.82 % 
-Blade Template   2 hrs 15 mins   ██████████▓░░░░░░░░░░░░░░   42.85 % 
-JavaScript       12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-Vue.js           2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-Git Config       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
