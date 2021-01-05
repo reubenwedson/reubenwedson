@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-HTML         6 hrs 39 mins   ███████████████████▓░░░░░   78.77 % 
-CSS          46 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
-Git Config   22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-C++          21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-JavaScript   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+HTML         6 hrs 39 mins   ███████████▓░░░░░░░░░░░░░   47.32 % 
+JavaScript   4 hrs 53 mins   ████████▓░░░░░░░░░░░░░░░░   34.71 % 
+C++          52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+CSS          46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+Git Config   33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
 ```
 <!--END_SECTION:waka-->
