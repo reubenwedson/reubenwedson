@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   9 hrs 35 mins   ████████████████░░░░░░░░░   63.49 % 
-Python       3 hrs 47 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.05 % 
-C++          1 hr 13 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-Git Config   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-INI          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+JavaScript   4 hrs 57 mins   ███████████▓░░░░░░░░░░░░░   47.16 % 
+Python       3 hrs 47 mins   █████████░░░░░░░░░░░░░░░░   36.02 % 
+C++          1 hr 6 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+JSON         28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+Markdown     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 ```
 <!--END_SECTION:waka-->
