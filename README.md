@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   5 hrs 39 mins   ███████████████████████▓░   95.16 % 
-Other        7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-Java         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-INI          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+JavaScript   3 hrs 45 mins   ███████████████████████▓░   95.11 % 
+Java         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 ```
 <!--END_SECTION:waka-->
