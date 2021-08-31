@@ -1,1 +1,1 @@
-![Metrics](https://github.com/reubenwedson/reubenwedson/blob/master/github-metrics.svg)
+[![Reuben's GitHub stats](https://github-readme-stats.vercel.app/api?username=reubenwedson)](https://github.com/reubenwedson/github-readme-stats)
