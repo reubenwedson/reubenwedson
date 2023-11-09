@@ -1,1 +1,2 @@
-[![Reuben's GitHub stats](https://github-readme-stats.vercel.app/api?username=reubenwedson&count_private=true&theme=dracula)](https://github.com/reubenwedson/github-readme-stats)
+# Vibing to
+![Preview](https://spotify-readme-kappa-ruddy.vercel.app/api?theme=dark)
